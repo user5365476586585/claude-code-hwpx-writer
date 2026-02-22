@@ -118,7 +118,7 @@ claude   # Claude Code 실행
 
 ## 감사의 말
 
-**[python-hwpx](https://github.com/airmang/python-hwpx)** — 순수 Python HWPX 파싱 라이브러리. 에이전트의 모든 문서 조작 기능의 기반.
+**[python-hwpx](https://github.com/airmang/python-hwpx)** 없이는 이 프로젝트는 존재할 수 없었습니다. 에이전트의 모든 HWP 조작 기능은 python-hwpx를 직접 사용합니다.
 
 ---
 
